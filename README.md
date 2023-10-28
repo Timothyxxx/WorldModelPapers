@@ -25,19 +25,23 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Yann LeCun*  [[pdf](https://openreview.net/pdf?id=BZ5a1r-kVsf)], 2022.6
 
-6. **Mastering Diverse Domains through World Models.** 
+6. **Model-Based Imitation Learning for Urban Driving.** 
+
+    *Anthony Hu, Gianluca Corrado, Nicolas Griffiths, Zak Murez, Corina Gurau, Hudson Yeo, Alex Kendall, Roberto Cipolla, Jamie Shotton*  [[pdf](https://arxiv.org/abs/2210.07729)], 2022.10
+
+7. **Mastering Diverse Domains through World Models.** 
 
     *Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2301.04104)], 2023.1
 
-7. **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture.** 
+8. **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture.** 
 
     *Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Yann LeCun, Nicolas Ballas*  [[pdf](https://arxiv.org/abs/2301.08243)], 2023.1
 
-8. **Learning Universal Policies via Text-Guided Video Generation.** 
+9. **Learning Universal Policies via Text-Guided Video Generation.** 
 
     *Yilun Du, Mengjiao Yang, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2302.00111)], 2023.2
 
-9. **Video Language Planning.** 
+10. **Video Language Planning.** 
 
     *Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson*  [[pdf](https://arxiv.org/abs/2310.10625)], 2023.10
 
