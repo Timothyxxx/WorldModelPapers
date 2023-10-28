@@ -9,6 +9,25 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *David Ha, Jürgen Schmidhuber*  [[pdf](https://arxiv.org/abs/1803.10122)], 2018.3
 
+2. **Dream to Control: Learning Behaviors by Latent Imagination.** 
+
+    *Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi*  [[pdf](https://arxiv.org/abs/1912.01603)], 2019.12
+
+3. **Mastering Atari with Discrete World Models.** 
+
+    *Danijar Hafner, Timothy Lillicrap, Mohammad Norouzi, Jimmy Ba*  [[pdf](https://arxiv.org/abs/2010.02193)], 2020.10
+
+4. **Mastering Diverse Domains through World Models.** 
+
+    *Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2301.04104)], 2023.1
+
+5. **Learning Universal Policies via Text-Guided Video Generation.** 
+
+    *Yilun Du, Mengjiao Yang, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2302.00111)], 2023.2
+
+6. **Video Language Planning.** 
+
+    *Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson*  [[pdf](https://arxiv.org/abs/2310.10625)], 2023.10
 
 
 ## Previous collections
