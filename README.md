@@ -41,7 +41,11 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Yilun Du, Mengjiao Yang, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2302.00111)], 2023.2
 
-10. **Video Language Planning.** 
+10. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
+    
+    *Jiannan Xiang and Tianhua Tao and Yi Gu and Tianmin Shu and Zirui Wang and Zichao Yang and Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.10626)], 2023.5
+
+11. **Video Language Planning.** 
 
     *Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson*  [[pdf](https://arxiv.org/abs/2310.10625)], 2023.10
 
