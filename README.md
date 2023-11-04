@@ -45,7 +45,16 @@ Paper collections of the continuous effort start from [World Models](https://arx
     
     *Jiannan Xiang and Tianhua Tao and Yi Gu and Tianmin Shu and Zirui Wang and Zichao Yang and Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.10626)], 2023.5
 
-11. **Video Language Planning.** 
+11. **GAIA-1: A Generative World Model for Autonomous Driving.** 
+
+    *Anthony Hu, Lloyd Russell, Hudson Yeo, Zak Murez, George Fedoseev, Alex Kendall, Jamie Shotton, Gianluca Corrado*  [[pdf](https://arxiv.org/abs/2309.17080)], 2023.9
+
+12. **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving.** 
+
+    *Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiwen Lu*  [[pdf](https://arxiv.org/abs/2309.09777)], 2023.9
+
+
+13. **Video Language Planning.** 
 
     *Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson*  [[pdf](https://arxiv.org/abs/2310.10625)], 2023.10
 
