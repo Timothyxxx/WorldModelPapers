@@ -42,21 +42,29 @@ Paper collections of the continuous effort start from [World Models](https://arx
     *Yilun Du, Mengjiao Yang, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2302.00111)], 2023.2
 
 10. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
-    
+
     *Jiannan Xiang and Tianhua Tao and Yi Gu and Tianmin Shu and Zirui Wang and Zichao Yang and Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.10626)], 2023.5
 
-11. **GAIA-1: A Generative World Model for Autonomous Driving.** 
+10. **Reasoning with Language Model is Planning with World Model**
+    
+    *Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.14992)], 2023.5
 
-    *Anthony Hu, Lloyd Russell, Hudson Yeo, Zak Murez, George Fedoseev, Alex Kendall, Jamie Shotton, Gianluca Corrado*  [[pdf](https://arxiv.org/abs/2309.17080)], 2023.9
+12. **GAIA-1: A Generative World Model for Autonomous Driving.** 
 
-12. **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving.** 
+     *Anthony Hu, Lloyd Russell, Hudson Yeo, Zak Murez, George Fedoseev, Alex Kendall, Jamie Shotton, Gianluca Corrado*  [[pdf](https://arxiv.org/abs/2309.17080)], 2023.9
 
-    *Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiwen Lu*  [[pdf](https://arxiv.org/abs/2309.09777)], 2023.9
+13. **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving.** 
+
+     *Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiwen Lu*  [[pdf](https://arxiv.org/abs/2309.09777)], 2023.9
 
 
 13. **Video Language Planning.** 
 
     *Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson*  [[pdf](https://arxiv.org/abs/2310.10625)], 2023.10
+
+14. **Finetuning Offline World Models in the Real World**
+
+    *Yunhai Feng, Nicklas Hansen, Ziyan Xiong, Chandramouli Rajagopalan, Xiaolong Wang*  [[pdf](https://arxiv.org/abs/2310.16029)], 2023.10
 
 
 ## Previous collections
