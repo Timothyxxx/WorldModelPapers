@@ -25,23 +25,27 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Yann LeCun*  [[pdf](https://openreview.net/pdf?id=BZ5a1r-kVsf)], 2022.6
 
-6. **Model-Based Imitation Learning for Urban Driving.** 
+6. **DayDreamer: World Models for Physical Robot Learning.** 
+
+    *Philipp Wu, Alejandro Escontrela, Danijar Hafner, Ken Goldberg, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2206.14176)], 2022.6
+
+7. **Model-Based Imitation Learning for Urban Driving.** 
 
     *Anthony Hu, Gianluca Corrado, Nicolas Griffiths, Zak Murez, Corina Gurau, Hudson Yeo, Alex Kendall, Roberto Cipolla, Jamie Shotton*  [[pdf](https://arxiv.org/abs/2210.07729)], 2022.10
 
-7. **Mastering Diverse Domains through World Models.** 
+8. **Mastering Diverse Domains through World Models.** 
 
     *Danijar Hafner, Jurgis Pasukonis, Jimmy Ba, Timothy Lillicrap*  [[pdf](https://arxiv.org/abs/2301.04104)], 2023.1
 
-8. **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture.** 
+9. **Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture.** 
 
     *Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Yann LeCun, Nicolas Ballas*  [[pdf](https://arxiv.org/abs/2301.08243)], 2023.1
 
-9. **Learning Universal Policies via Text-Guided Video Generation.** 
+10. **Learning Universal Policies via Text-Guided Video Generation.** 
 
     *Yilun Du, Mengjiao Yang, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2302.00111)], 2023.2
 
-10. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
+11. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
 
     *Jiannan Xiang and Tianhua Tao and Yi Gu and Tianmin Shu and Zirui Wang and Zichao Yang and Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.10626)], 2023.5
 
