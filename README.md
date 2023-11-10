@@ -70,6 +70,9 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Yunhai Feng, Nicklas Hansen, Ziyan Xiong, Chandramouli Rajagopalan, Xiaolong Wang*  [[pdf](https://arxiv.org/abs/2310.16029)], 2023.10
 
+15. **Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**
+
+    *Lunjun Zhang, Yuwen Xiong, Ze Yang, Sergio Casas, Rui Hu, Raquel Urtasun*  [[pdf](https://arxiv.org/abs/2311.01017)], 2023.11
 
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
