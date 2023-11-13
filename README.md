@@ -42,6 +42,7 @@ Paper collections of the continuous effort start from [World Models](https://arx
     *Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Yann LeCun, Nicolas Ballas*  [[pdf](https://arxiv.org/abs/2301.08243)], 2023.1
 
 10. **Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling.** 
+    
     *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*  [[pdf](https://arxiv.org/abs/2301.12050)], 2023.1
 
 11. **Learning Universal Policies via Text-Guided Video Generation.** 
