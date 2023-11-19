@@ -41,36 +41,47 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Mahmoud Assran, Quentin Duval, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Yann LeCun, Nicolas Ballas*  [[pdf](https://arxiv.org/abs/2301.08243)], 2023.1
 
-10. **Learning Universal Policies via Text-Guided Video Generation.** 
+10. **Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling.** 
+    
+    *Kolby Nottingham, Prithviraj Ammanabrolu, Alane Suhr, Yejin Choi, Hannaneh Hajishirzi, Sameer Singh, Roy Fox*  [[pdf](https://arxiv.org/abs/2301.12050)], 2023.1
+
+11. **Learning Universal Policies via Text-Guided Video Generation.** 
 
     *Yilun Du, Mengjiao Yang, Bo Dai, Hanjun Dai, Ofir Nachum, Joshua B. Tenenbaum, Dale Schuurmans, Pieter Abbeel*  [[pdf](https://arxiv.org/abs/2302.00111)], 2023.2
 
-11. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
+12. **Language Models Meet World Models: Embodied Experiences Enhance Language Models**
 
     *Jiannan Xiang and Tianhua Tao and Yi Gu and Tianmin Shu and Zirui Wang and Zichao Yang and Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.10626)], 2023.5
 
-10. **Reasoning with Language Model is Planning with World Model**
+13. **Reasoning with Language Model is Planning with World Model**
     
     *Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu*  [[pdf](https://arxiv.org/abs/2305.14992)], 2023.5
 
-12. **GAIA-1: A Generative World Model for Autonomous Driving.** 
+14. **From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought**
+
+    *Lionel Wong, Gabriel Grand, Alexander K Lew, Noah D Goodman, Vikash K Mansinghka, Jacob Andreas, Joshua B Tenenbaum* [[pdf](https://arxiv.org/abs/2306.12672)], 2023.6
+
+15. **Learning to Model the World with Language**
+
+    *Jessy Lin, Yuqing Du, Olivia Watkins, Danijar Hafner, Pieter Abbeel, Dan Klein, Anca Dragan* [[pdf](https://arxiv.org/abs/2308.01399)], 2023.7
+
+16. **GAIA-1: A Generative World Model for Autonomous Driving.** 
 
      *Anthony Hu, Lloyd Russell, Hudson Yeo, Zak Murez, George Fedoseev, Alex Kendall, Jamie Shotton, Gianluca Corrado*  [[pdf](https://arxiv.org/abs/2309.17080)], 2023.9
 
-13. **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving.** 
+17. **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving.** 
 
      *Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiwen Lu*  [[pdf](https://arxiv.org/abs/2309.09777)], 2023.9
 
-
-13. **Video Language Planning.** 
+18. **Video Language Planning.** 
 
     *Yilun Du, Mengjiao Yang, Pete Florence, Fei Xia, Ayzaan Wahid, Brian Ichter, Pierre Sermanet, Tianhe Yu, Pieter Abbeel, Joshua B. Tenenbaum, Leslie Kaelbling, Andy Zeng, Jonathan Tompson*  [[pdf](https://arxiv.org/abs/2310.10625)], 2023.10
 
-14. **Finetuning Offline World Models in the Real World**
+19. **Finetuning Offline World Models in the Real World**
 
     *Yunhai Feng, Nicklas Hansen, Ziyan Xiong, Chandramouli Rajagopalan, Xiaolong Wang*  [[pdf](https://arxiv.org/abs/2310.16029)], 2023.10
 
-15. **Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**
+20. **Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion**
 
     *Lunjun Zhang, Yuwen Xiong, Ze Yang, Sergio Casas, Rui Hu, Raquel Urtasun*  [[pdf](https://arxiv.org/abs/2311.01017)], 2023.11
 
