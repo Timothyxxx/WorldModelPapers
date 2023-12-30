@@ -85,6 +85,10 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Lunjun Zhang, Yuwen Xiong, Ze Yang, Sergio Casas, Rui Hu, Raquel Urtasun*  [[pdf](https://arxiv.org/abs/2311.01017)], 2023.11
 
+21. **Gradient-based Planning with World Models**
+
+    *Jyothir S V, Siddhartha Jalagam, Yann LeCun, Vlad Sobal*  [[pdf](https://arxiv.org/abs/2312.17227)], 2023.12
+
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
 
