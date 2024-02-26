@@ -101,6 +101,10 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Jyothir S V, Siddhartha Jalagam, Yann LeCun, Vlad Sobal*  [[pdf](https://arxiv.org/abs/2312.17227)], 2023.12
 
+24. **Genie: Generative Interactive Environments**
+
+    *Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps, Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess, Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel*  [[pdf](https://arxiv.org/abs/2402.15391)], 2024.2
+
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
 
