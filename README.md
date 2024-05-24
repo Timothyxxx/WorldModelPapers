@@ -119,6 +119,14 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Quentin Garrido, Mahmoud Assran, Nicolas Ballas, Adrien Bardes, Laurent Najman, Yann LeCun* [[pdf](https://arxiv.org/abs/2403.00504)], 2024.3
 
+29. **Diffusion for World Modeling: Visual Details Matter in Atari**
+
+    *Eloi Alonso, Adam Jelley, Vincent Micheli, Anssi Kanervisto, Amos Storkey, Tim Pearce, François Fleuret* [[pdf](https://arxiv.org/abs/2405.12399)], 2024.5
+
+30. **Pandora: Towards General World Model with Natural Language Actions and Video States**
+
+    *Jiannan Xiang, Guangyi Liu, Yi Gu, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu* [[pdf](https://world-model.maitrix.org/assets/pandora.pdf)], 2024.5
+
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
 
