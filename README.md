@@ -127,6 +127,10 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Jiannan Xiang, Guangyi Liu, Yi Gu, Qiyue Gao, Yuting Ning, Yuheng Zha, Zeyu Feng, Tianhua Tao, Shibo Hao, Yemin Shi, Zhengzhong Liu, Eric P. Xing, Zhiting Hu* [[pdf](https://world-model.maitrix.org/assets/pandora.pdf)], 2024.5
 
+31. **iVideoGPT: Interactive VideoGPTs are Scalable World Models**
+
+    *Jialong Wu, Shaofeng Yin, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long* [[pdf](https://arxiv.org/abs/2405.15223)], 2024.5
+
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
 
