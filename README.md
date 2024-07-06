@@ -131,6 +131,10 @@ Paper collections of the continuous effort start from [World Models](https://arx
 
     *Jialong Wu, Shaofeng Yin, Ningya Feng, Xu He, Dong Li, Jianye Hao, Mingsheng Long* [[pdf](https://arxiv.org/abs/2405.15223)], 2024.5
 
+32. **PWM: Policy Learning with Large World Models**
+
+    *Ignat Georgiev, Varun Giridhar, Nicklas Hansen, Animesh Garg* [[pdf](https://arxiv.org/abs/2407.02466)], 2024.7
+
 ## Previous collections
 Here are some paper collections I made (or mainly contributed to) previously and the timestamps for your interests:
 
